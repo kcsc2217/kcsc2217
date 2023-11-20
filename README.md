@@ -32,6 +32,7 @@
    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kcsc2217)](https://velog.io/@kcsc2217)
    <br/>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcsc2217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsc2217&show_icons=true&theme=radical)
    <br/>
    <br/>
     [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kcsc2217)](https://github.com/ashutosh00710/github-readme-activity-graph)
